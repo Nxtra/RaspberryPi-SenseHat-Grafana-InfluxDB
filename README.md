@@ -9,3 +9,6 @@
 
 ## Grafana
 * start grafana service: `sudo service grafana-server start`
+
+## InfluxDB
+* start influxDB; `sudo service influxdb start`
